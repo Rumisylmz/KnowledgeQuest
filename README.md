@@ -118,6 +118,6 @@ Planned or possible features:
 
 Developed by Rumeysa Yılmaz
 
-💼 GitHub: username
 
-✉️ Contact: [your email]
+
+
